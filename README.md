@@ -22,16 +22,23 @@ Puntaje = (Fuerza + Magia + Conocimiento) - Agilidad del oponente.
 Para poner en marcha el proyecto en tu entorno local, sigue estos pasos:
 
 1. Clona este repositorio en tu máquina:
-   git clone https://github.com/tu-usuario/nombre-del-repositorio.git
+```
+   git clone https://github.com/GcassT/API_RPG_Node.git
+```
 
 2. Accede al directorio del proyecto:
+```
    cd nombre-del-repositorio
+```
 
 3. Instala las dependencias necesarias:
+```
    npm install
-
+```
 4. Inicia el servidor:
+```
    node index.js
+```
 
 El servidor comenzará a funcionar en http://localhost:3000.
 
